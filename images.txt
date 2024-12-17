@@ -3,4 +3,4 @@ cloudflare/cloudflared:latest
 ghcr.io/gethomepage/homepage:latest
 dreamacro/clash
 emby/embyserver:4.8.8.0
-ghcr.io/home-assistant/home-assistant:2024.3.0b7
+ghcr.io/home-assistant/home-assistant:2024.11
