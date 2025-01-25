@@ -1,6 +1,1 @@
-cloudflare/cloudflared:latest
-dreamacro/clash
-emby/embyserver:4.8.10.0
-ghcr.io/home-assistant/home-assistant:2024.12.3
-ghcr.io/librespeed/speedtest:latest
-ghcr.io/devcontainers/features/dotnet:2
+zixia/wxwork
